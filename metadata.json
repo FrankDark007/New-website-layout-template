@@ -1,0 +1,9 @@
+{
+  "name": "Flood Doctor - website",
+  "description": "Premium water damage restoration web application for Northern Virginia.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
